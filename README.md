@@ -5,7 +5,7 @@ I'm a very passionate developer with experience in web development, backend serv
  🚀 Skills
 
 - 💻 Languages: JavaScript, TypeScript, Python, Jquery, ReactJS, nextJS, 
-- 🌐 Frontend: React, TailwindCSS, Redux, firebase, 
+- 🌐 Frontend: React, TailwindCSS, Redux, firebase, TypeScript.
 - 🛠 Backend: Node.js, Express, MongoDB
 - 🔧 Tools: Git, Docker, VS Code
 - 💞️ Currently open to work and collaborations
